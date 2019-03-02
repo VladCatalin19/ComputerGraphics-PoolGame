@@ -1,3 +1,9 @@
+-------------------------------------------------------------------------------<br />
+Vlad Marius-Cătălin 335CC<br />
+Anul III Semestrul I<br />
+Tema2 Elemente de Grafică pe Calculator<br />
+-------------------------------------------------------------------------------<br />
+<br />
 Pentru această temă am folosit modele 3D pentru masă (1) și pentru tac (2).<br />
 Modelul pentru bilă a fost luat din modelul mesei. Camera a fost luată din<br />
 laboratorul 5 pentru rotirea în Third Person. Pentru animația tacului, se folo-<br />
