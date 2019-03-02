@@ -1,0 +1,16 @@
+    Pentru această temă am folosit modele 3D pentru masă (1) și pentru tac (2).
+Modelul pentru bilă a fost luat din modelul mesei. Camera a fost luată din
+laboratorul 5 pentru rotirea în Third Person. Pentru animația tacului, se folo-
+sește în vertex shader ca punct de referință timpul de când a fost apăsat buto-
+nul care activează animația. Tacul se mișcă sinusoidal pe direcția bilei cu ca-
+mera.
+    Jocul funcționează precum un automat de stări. Are 4 stări, una în care
+jucătorul mișcă bila albă pe masă, una pentru rotirea tacului și camerei în
+jurul bilei albe și una pentru mișcarea bilelor pe masă. În clasa principală
+Level se alege ce stare va urma în funcție de terminarea ultimei stări, astfel
+se știe când a fost fault ce stare se va alege, etc.
+
+
+    Referințe:
+    (1) https://free3d.com/3d-model/pool-table-v1--600461.html
+    (2) https://free3d.com/3d-model/pool-cue-v1--229730.html
