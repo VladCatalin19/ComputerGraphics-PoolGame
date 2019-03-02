@@ -16,10 +16,6 @@ jurul bilei albe și una pentru mișcarea bilelor pe masă. În clasa principal�
 Level se alege ce stare va urma în funcție de terminarea ultimei stări, astfel<br />
 se știe când a fost fault ce stare se va alege, etc.<br />
 
-    Screenshots:
-![Demo_1](DEMO_1.png)
-![Demo_2](DEMO_2.png)
-![Demo_3](DEMO_3.png)
 
     Referințe:
     (1) https://free3d.com/3d-model/pool-table-v1--600461.html
